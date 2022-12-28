@@ -1,0 +1,12 @@
+2022-12-28 14:18:13,555:INFO:fWatch2DataAPI:Start fWatch2DataAPI
+2022-12-28 14:18:13,555:INFO:fWatch2DataAPI:Prefjson:/Users/user/Documents/AD_Apps/macos/fWatch2DataAPI.json
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:logfile:/Users/user/Documents/AD_Apps/macos/fWatch2DataAPI.log
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:CheckPath:/Library/FileMaker Server/Data/Documents/PTINF/
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_host:https://127.0.0.1
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_script:apiDataSet
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_database:db_com
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_layout:dataTx
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_user:dataapi
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_password:dataapi@pass
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_pkcs12:
+2022-12-28 14:18:13,556:INFO:fWatch2DataAPI:fm_pkcs12_password:

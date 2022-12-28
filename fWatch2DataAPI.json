@@ -1,0 +1,13 @@
+{
+    "FMSpath" : "/Library/FileMaker Server/Data/Documents/",
+    "Watchpath": "PTINF/",
+    "fm_host" : "https://127.0.0.1",
+    "fm_script" : "apiDataSet",
+    "fm_database" : "db_com",
+    "fm_layout" : "dataTx",
+    "fm_user" : "dataapi",
+    "fm_password" : "dataapi@pass",
+    "fm_pkcs12" : "",
+    "fm_pkcs12_password" : "",
+    "memo1":"クライアント認証を利用する場合、fm_hostにはFQDNを指定してください。"
+}

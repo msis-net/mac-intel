@@ -1,0 +1,10 @@
+{
+    "WatchDir":"D:/TEST/sync",
+    "Dir1":"D:/TEST/dirA",
+    "Dir2":"D:/TEST/dirB",
+    "Dir3":"D:/TEST/dirC",
+    "wWatchDir":"D:/FileMaker Server/Data/Documents/sync",
+    "wDir1":"D:/FileMaker Server/Data/Databases/AD_EVE/RC_Data_FMS/DB_EVE/DB_EVE/wkarte",
+    "wDir2":"D:/FileMaker Server/Data/Documents/wkarte",
+    "wDir3":"D:/Tomcat/webapps/web/wkarte"
+}
